@@ -47,3 +47,4 @@ INSERT INTO `note` (`Title`, `Contents`, `Owner`)
     VALUES ('Another quote', '"Java is to JavaScript as ham is to hamster." -  Jeremy Keith', 'cprg352+anne@gmail.com');
 INSERT INTO `note` (`Title`, `Contents`, `Owner`)
     VALUES ('Barb''s Note', 'Anne should not see this note.', 'cprg352+barb@gmail.com');
+noterole
